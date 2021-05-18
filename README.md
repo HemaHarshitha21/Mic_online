@@ -31,3 +31,10 @@
 
 # Table Creating
 
+Technology | Percentage
+---------- | ----------
+Python     | 50%
+c          | 80%
+
+:simle:
+
